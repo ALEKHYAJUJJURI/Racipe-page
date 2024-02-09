@@ -1,0 +1,58 @@
+@media screen and (max-width : 1440px) { 
+    body {
+        background-color: hsl(30, 54%, 90%);
+        padding:20px 0px 20px 0px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .card {
+    
+    background-color:white;
+    width: 60%;
+    border-radius: 5px;
+
+    
+    }
+    .card2 {
+       
+        padding: 15px;
+    }
+    .card2 img {
+        width: 100%;
+        height: auto;
+        border-radius: 5px;
+    }
+    
+}
+@media screen and (max-width:375px) {
+    body {
+        background-color:white;
+    }
+    
+}
+.inside-card {
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 8px;
+}
+.inside-card h4 {
+    color: hsl(332, 51%, 32%);
+    
+}
+p,li {
+    font-size: 16px;
+    
+}
+h2{
+    color:hsl(14, 45%, 36%);
+}
+.span {
+    
+    font-family: 'Outfit';
+    color:hsl(24, 5%, 18%);
+    font-weight: bold;
+    
+}
+ul li { 
+    color: #3399ff;
+}
